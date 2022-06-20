@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MuseTaku</string>
+    <string name="tUser">Username</string>
+    <string name="tPassword">Password</string>
+    <string name="bsignin">Sign-In</string>
+    <string name="mDaftar">REGISTRATION</string>
+    <string name="ldaftar">Daftar</string>
+    <string name="enama">Enter Username</string>
+    <string name="epass">Enter Password</string>
+    <string name="erepass">Re-enter Password</string>
+</resources>
